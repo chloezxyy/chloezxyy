@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Chloe! I'm a Software Developer! 🌝🤏
+
+
 <!--
 **chloezxyy/chloezxyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
